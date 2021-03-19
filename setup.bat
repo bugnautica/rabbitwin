@@ -9,3 +9,4 @@ pip install pickle
 pip install zlib
 pip install argparse
 echo sucess modules loaded
+pause

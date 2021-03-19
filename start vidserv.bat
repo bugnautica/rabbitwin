@@ -1,0 +1,2 @@
+python vidserv.py
+pause
